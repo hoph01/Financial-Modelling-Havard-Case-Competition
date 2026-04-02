@@ -14,18 +14,6 @@ The case centers on the defense and aerospace industry, with particular attentio
 - Strategic positioning in land systems, air defense, and C4ISR
 - M&A decision-making in a highly regulated industry
 
-## Our Recommendation
-Our final recommendation is that **Thales should not merge with Rheinmetall**.  
-Instead, **RENK** emerged as the stronger strategic partner.
-
-We found that RENK offers a more attractive path because its propulsion and drivetrain capabilities complement Thales’ strengths in defense electronics, sensors, and C4ISR. Compared with Rheinmetall, RENK presents:
-
-- stronger strategic complementarity
-- lower overlap in core capabilities
-- more realistic financial feasibility
-- greater synergy potential
-- lower integration and regulatory complexity
-
 ## What This Project Includes
 This project covers the following areas:
 
@@ -62,8 +50,7 @@ This project highlights experience in:
 - strategic analysis
 - corporate finance and valuation
 - M&A screening and synergy evaluation
-- executive communication and pitch deck development
-- team-based problem solving under competition deadlines
+- team-based problem solving
 
 ## Why This Project Matters
 This case competition project reflects our ability to approach a complex business problem the way an investment banking, private equity, or strategy team would: by combining qualitative strategy, quantitative analysis, and clear executive-level recommendations.
