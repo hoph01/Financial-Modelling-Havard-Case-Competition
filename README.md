@@ -1,4 +1,3 @@
-# Financial-Modelling-Havard-Case-Competition
 # Global Case Competition at Harvard 2026 – Thales Group M&A Case Analysis
 
 ## Overview
