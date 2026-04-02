@@ -1,5 +1,5 @@
 # Financial-Modelling-Havard-Case-Competition
-# GCCH 2026 – Thales Strategic M&A Case Analysis
+# Global Case Competition at Harvard 2026 – Thales Group M&A Case Analysis
 
 ## Overview
 This repository contains our submission for the **Global Case Competition at Harvard 2026 (GCCH 2026)**. Our project evaluates a major strategic question in the European defense sector: whether **Thales** should pursue a merger with **Rheinmetall** or take a different path to strengthen its long-term competitive position.
